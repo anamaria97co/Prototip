@@ -1,0 +1,4 @@
+ime: zaposlenik
+lozinka: 1234
+
+*Potrebna prilikom prijave zaposlenika u sustav, dostupna i u bazi podataka.
